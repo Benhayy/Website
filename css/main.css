@@ -1,0 +1,156 @@
+#aside-sidebar {
+  background-color: #0000cc;
+  width:14%;
+  height:800px;
+  float: left;
+  margin: 5px;
+  margin-top: 20px;
+  border-radius: 15px;
+  border: 5px solid black;
+}
+
+#div-top {
+  background-color: #0000cc;
+  width: 80%;
+  float: left;
+  margin-left:20px;
+  margin-bottom:20px;
+  border-radius: 15px;
+  border: 5px solid black;
+}
+
+#section-trend {
+  background-color :#0000cc;
+  float: left;
+  width: 80%;
+  margin-left:20px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  border: 5px solid black;
+}
+
+#section-other {
+  background-color :#0000cc;
+  float: left;
+  width: 80%;
+  margin-left:20px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  border: 5px solid black;
+
+}
+
+#Title {
+  background-color: #0000cc;
+  float: left;
+  width: 80%;
+  margin-left: 20px;
+  border-radius: 15px;
+  border: 5px solid black;
+  padding: 8px
+}
+
+#Title-g {
+  background-color: #0000cc;
+  float: right;
+  width: 81.2%;
+  margin-left: 25px;
+  border-radius: 15px;
+  border: 5px solid black;
+  padding: 8px
+}
+
+#friends-list {
+  background-color: #0000cc;
+  width: 80%;
+  float: left;
+  margin: 22px;
+  margin-top: 50px;
+  border-radius: 15px;
+  border: 5px solid black;
+}
+
+#game-segment1 {
+  background-color :#cc66ff;
+  float: left;
+  width: 19%;
+  margin-left:25px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  border: 5px solid black;
+}
+
+#game-segment2 {
+  background-color :#ff944d;
+  float: left;
+  width: 19%;
+  margin-left:25px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  border: 5px solid black;
+}
+
+#game-segment3 {
+  background-color :#99ccff;
+  float: left;
+  width: 19%;
+  margin-left:25px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  border: 5px solid black;
+}
+
+#game-segment4 {
+  background-color :#ffdb4d;
+  float: left;
+  width: 19%;
+  margin-left: 25px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  border: 5px solid black;
+}
+
+#p-base {
+  text-align:left;
+  color: white;
+  width: 100%;
+  padding-left:90px;
+  font-family: Verdana;
+  font-size: 20px
+}
+
+.nav{
+  border:1px solid black;
+  border-width: 1px 0;
+  background-color: #0000cc;
+  margin: 15px;
+  padding: 30px;
+  list-style-type: none;
+  overflow: hidden;
+  text-align: center;
+  color: white
+}
+
+.nav li{
+  display: inline;
+}
+
+.nav a{
+  display: inline;
+  padding-top: 10px;
+  list-style-type: none;
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+  border: 5px solid: black;
+  margin-bottom: 10px;
+}
+
+.nav a:hover {
+  display:inline-block;
+  padding: 0;
+  list-style-type: none;
+  text-decoration: none;
+  font-size: 30px;
+  color:#999999
+}
